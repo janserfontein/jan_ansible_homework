@@ -3,7 +3,7 @@
   tasks:
   - name: Create workstation inventory
     add_host:
-       name: "workstation-98f0.rhpds.opentlc.com"
+       name: "workstation-a7ef.rhpds.opentlc.com"
        group: workstation
 
 - hosts: workstation
