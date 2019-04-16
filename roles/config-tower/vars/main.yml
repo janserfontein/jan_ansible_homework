@@ -44,7 +44,7 @@ aws_cred_name: "Creds for AWS instances"
 job_template_smoke_aws: "Smoke test Prod env"
 aws_smoke_app_playbook: site-smoketest-aws.yml
 opentlc_login: jan.serfontein-solnet.co.nz
-opentlc_password: Junihor1!
+opentlc_password: XXXXXXXx
 param_repo_base: http://www.opentlc.com/download/ansible_bootcamp
 region: us-east-1
 tower_GUID: 669c
